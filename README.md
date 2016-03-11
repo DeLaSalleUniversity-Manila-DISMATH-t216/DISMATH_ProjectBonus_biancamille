@@ -9,7 +9,7 @@ Linear and Binary Search, including Bubble Sort
 
 ## Linear Search
 - Designer
-![ScreenShot](linear designer.PNG)
+![ScreenShot](linear search designer.PNG)
 - Blocks
 ![ScreenShot](linear blocks.PNG)
 

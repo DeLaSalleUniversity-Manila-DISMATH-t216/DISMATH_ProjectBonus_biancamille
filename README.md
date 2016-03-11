@@ -17,6 +17,7 @@ Linear and Binary Search, including Bubble Sort
 - Designer
 ![ScreenShot](binary search designer.PNG)
 - Blocks
+![ScreenShot](binary blocks.PNG)
 ![ScreenShot](binary search blocks.PNG)
 
 ## Bubble Sort
